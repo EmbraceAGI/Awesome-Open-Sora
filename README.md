@@ -13,4 +13,12 @@ Prompt:
       <source id="mp4" src="https://cdn.openai.com/sora/videos/wolves.mp4" type="video/mp4">
 </videos>
 
-## Dogs
+## Wolves
+
+Prompt: 
+> A beautiful silhouette animation shows a wolf howling at the moon, feeling lonely, until it finds its pack.
+
+<video id="video" controls="" preload="none" poster="Tokyo-Walking">
+      <source id="mp4" src="https://cdn.openai.com/sora/videos/wolves.mp4" type="video/mp4">
+</videos>
+
