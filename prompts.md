@@ -1,9 +1,3 @@
-# Awesome-Open-Sora
-OpenAI Sora model resources
-
-知识库: https://langgptai.feishu.cn/wiki/I9Nhw0qLSiSfYEkXRmHcczFAn2c
-
-## Prompt
 
 东京街头都市丽人-60s
 Prompt: 
