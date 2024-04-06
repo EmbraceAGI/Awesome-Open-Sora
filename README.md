@@ -3,6 +3,13 @@ OpenAI Sora model resources
 
 知识库: https://langgptai.feishu.cn/wiki/I9Nhw0qLSiSfYEkXRmHcczFAn2c
 
+links:
+* https://openai.com/sora
+
+## Open-Sora
+* [Open-Sora： 完全开源的高效复现类Sora视频生成方案](https://github.com/hpcaitech/Open-Sora/blob/main/docs/zh_CN/README.md)
+* [Open-Sora-Plan:复现OpenAI的视频生成模型](https://pku-yuangroup.github.io/Open-Sora-Plan/blog_cn.html)
+
 ## Prompt
 
 东京街头都市丽人-60s
